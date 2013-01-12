@@ -1,0 +1,9 @@
+# name: protocol decleration
+# key: prot
+# --
+@protocol ${1:`(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))`} <${2:NSObject}>
+{
+$0
+}
+
+@end

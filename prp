@@ -1,0 +1,4 @@
+# name: property decleration in interface
+# key: prp
+# --
+@property (${1:nonatomic}) ${2:type} ${3:foo};

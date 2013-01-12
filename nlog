@@ -1,0 +1,4 @@
+# name: NSLog
+# key: nlog
+# --
+NSLog(@"${0:}");

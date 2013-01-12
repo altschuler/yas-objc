@@ -1,0 +1,7 @@
+# name: method implementation
+# key: meth
+# --
+- (${1:void}) $2
+{
+$0
+}
