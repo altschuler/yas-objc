@@ -1,4 +1,4 @@
 # name: NSLog
-# key: nlog
+# key: log
 # --
 NSLog(@"${0:}");

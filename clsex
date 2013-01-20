@@ -1,9 +1,6 @@
-# name: interface in implementation
-# key: intfm
+# name: class extension
+# key: clsex
 # --
 @interface ${1:`(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))`} ()
-{
-$0
-}
 
 @end
